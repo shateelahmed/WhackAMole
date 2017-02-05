@@ -4,7 +4,7 @@ body {
     overflow: hidden;
 }
 .mole {
-    background: #A76745 url('/images/happy_mole.png') no-repeat;
+    background: #A76745 url('../images/happy_mole.png') no-repeat;
     background-size: 100%;
     border-radius: 100px 100px 0px 0px;
     height: 100%;
